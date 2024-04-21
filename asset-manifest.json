@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/web2-assignment2/static/js/main.c6ed09d6.js",
+    "main.js": "/web2-assignment2/static/js/main.ed7fa90b.js",
     "index.html": "/web2-assignment2/index.html",
-    "main.c6ed09d6.js.map": "/web2-assignment2/static/js/main.c6ed09d6.js.map"
+    "main.ed7fa90b.js.map": "/web2-assignment2/static/js/main.ed7fa90b.js.map"
   },
   "entrypoints": [
-    "static/js/main.c6ed09d6.js"
+    "static/js/main.ed7fa90b.js"
   ]
 }
